@@ -10,6 +10,8 @@ const Navbar=()=>{
     );
 
     return(
-        <nav className="navbar navbar-dark bg-dark"
+        <nav className="navbar navbar-dark bg-dark d-flex justify-content-between">
+            <div> <i></i> </div>
+        </nav>
     )
 }
